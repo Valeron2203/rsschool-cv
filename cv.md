@@ -5,9 +5,9 @@
 >Scientist, author of a number of scientific articles, PhD. I work in amateur football and tourism. Commentator, guide-organizer.
 
 ## Projects ##
-1. Futsal match .............................. [ Futsal Commentator ]
-2. Scientific work .....................................[ Monograph ]
-3. Individual player statistics .............. .[ Futsal statistics ]
+1. Futsal Commentator............................................[Match](https://v9ky.in.ua/2022-23_Zima_Kyiv_Super_Liga_Centre/video/match/15540)
+2. Scientific work ...........................................[Monograph](https://ipiend.gov.ua/publication/novorodovskyj-v-v-natsionalni-menshyny-ukrainy-v-politychnykh-protsesakh-1945-1991-naukovyj-dyskurs-monohrafiia/)
+3. Individual player statistics ..............[Futsal statistics](https://v9ky.in.ua/2022-23_Zima_Kyiv_Super_Liga_Centre/players_match_stat/match/15535)
 
 ## Work Experience ##
 
