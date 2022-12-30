@@ -36,5 +36,15 @@
 * writing scientific articles
 * dissertation preparation
 
+## Education ##
+
+### Pereiaslav-Khmelnytskyi Hryhorii Skovoroda State Pedagogical University, Department of History ###
+
+>September 2009 - June 2014
+
+## Contacts ##
+* Phone: 0639529302
+* E-mail: valeriy.n12@gmail.com
+
 
 
